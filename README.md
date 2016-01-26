@@ -5,4 +5,6 @@ Simple MATLAB GUI implementing the [MVP pattern](https://en.wikipedia.org/wiki/M
 
 Create a new instance of the Presenter class to start the GUI.
 
-Controlling GUI using a class adapted from http://uk.mathworks.com/matlabcentral/fileexchange/33816-example-using-a-matlab-class-to-control-a-gui
+MATLAB File Exchange submission: http://uk.mathworks.com/matlabcentral/fileexchange/55094-model-view-presenter-example-gui
+
+Controlling GUI using a class adapted from: http://uk.mathworks.com/matlabcentral/fileexchange/33816-example-using-a-matlab-class-to-control-a-gui
